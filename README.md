@@ -2,7 +2,7 @@
 
 This project provides a simple and efficient implementation of a UART (Universal Asynchronous Receiver/Transmitter) transmitter written in Verilog. UART is a widely used protocol for serial communication between devices and this implementation serves as a fundamental building block for various hardware designs.
 
-## ** Overview **
+## **Overview**
 The UART Transmitter module is designed to serialize parallel data and transmit it over a serial line in compliance with the UART protocol. This implementation supports configurable baud rate, and clock frequency, making it adaptable for various communication requirements.
 
 ## Simulation
